@@ -26,6 +26,6 @@ Your contributions are highly encouraged! If you have additional notes, examples
 This repository is open-source and available under the MIT License. Feel free to use, modify, and share the content.
 
 **Feedback:**
-If you find these notes helpful or have suggestions for improvement, please contact us at dhanushraj@gmail.com.
+If you find these notes helpful or have suggestions for improvement, please contact us at dhanushraj782@gmail.com.
 
 Happy coding!
